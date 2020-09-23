@@ -13,7 +13,7 @@ NOTE:
 [[code-exploration]]
 === Exploring Kibana code
 
-The goals of our folder heirarchy are:
+The goals of our folder hierarchy are:
 
 - Easy for developers to know where to add new services, plugins and applications.
 - Easy for developers to know where to find the code from services, plugins and applications.
